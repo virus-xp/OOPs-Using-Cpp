@@ -1,5 +1,7 @@
 # Object-Oriented Programming (OOP) in C++
-
+<p align="center">
+  <b>Salik Seraj Naik®</b>
+</p>
 ## Introduction
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code to manipulate that data. C++ is a popular language that supports OOP.
 
